@@ -8,3 +8,9 @@
 /bin/sh: line 1: /root/sync_test/sync_git.sh: No such file or directory
 /bin/sh: line 1: /root/sync_test/sync_git.sh: No such file or directory
 fatal: unable to access 'https://github.com/cdac3642/sync_test.git/': Could not resolve host: github.com
+[main f6c6c2c] Automated commit
+ 3 files changed, 13 insertions(+), 1 deletion(-)
+ create mode 100644 hello
+ create mode 100644 sync_log.txt
+fatal: unable to access 'https://github.com/cdac3642/sync_test.git/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/cdac3642/sync_test.git/': Could not resolve host: github.com
