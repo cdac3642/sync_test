@@ -1,0 +1,10 @@
+/bin/sh: line 1: /root/sync_test/sync_git.sh: No such file or directory
+/bin/sh: line 1: /root/sync_test/sync_git.sh: No such file or directory
+/bin/sh: line 1: /root/sync_test/sync_git.sh: No such file or directory
+/bin/sh: line 1: /root/sync_test/sync_git.sh: No such file or directory
+/bin/sh: line 1: /root/sync_test/sync_git.sh: No such file or directory
+/bin/sh: line 1: /root/sync_test/sync_git.sh: No such file or directory
+/bin/sh: line 1: /root/sync_test/sync_git.sh: No such file or directory
+/bin/sh: line 1: /root/sync_test/sync_git.sh: No such file or directory
+/bin/sh: line 1: /root/sync_test/sync_git.sh: No such file or directory
+fatal: unable to access 'https://github.com/cdac3642/sync_test.git/': Could not resolve host: github.com
