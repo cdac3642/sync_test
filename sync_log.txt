@@ -44,3 +44,8 @@ Already up to date.
 To https://github.com/cdac3642/sync_test.git
    3a6f651..cb5b3f2  main -> main
 Already up to date.
+[main 9545b34] Automated commit
+ 1 file changed, 5 insertions(+)
+To https://github.com/cdac3642/sync_test.git
+   cb5b3f2..9545b34  main -> main
+fatal: unable to access 'https://github.com/cdac3642/sync_test.git/': Could not resolve host: github.com
